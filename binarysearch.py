@@ -20,17 +20,9 @@ def binary_search(arr, target):
     # Return -1 if the target is not found in the array
     return -1
 
-# Main block
 if __name__ == '__main__':
-    # Input the array elements as space-separated integers
     arr = [int(x) for x in input().split()]
-    
-    # Input the target value to search for
     target = int(input())
-    
-    # Call the binary_search function with the array and target
     res = binary_search(arr, target)
-    
-    # Print the result (index of the target in the array or -1 if not found)
     print(res)
 
