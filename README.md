@@ -3,11 +3,11 @@
 
 ## List
   List is ordered and changeable. Allows duplicate members.
-## Binary Search
+## Tuple
   Tuple is ordered and unchangeable. Allows duplicate members.
-## Binary Search
+## Set
   Set is unordered, unchangeable, and unindexed. No duplicate members.
-## Binary Search
+## Dictionary
   Dictionary is ordered and changeable. No duplicate members.
 ## Binary Search
   
