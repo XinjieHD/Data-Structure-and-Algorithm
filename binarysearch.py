@@ -25,4 +25,5 @@ if __name__ == '__main__':
     target = int(input())
     res = binary_search(arr, target)
     print(res)
+    
 
