@@ -16,3 +16,4 @@
 - First Bad Version
 - Ransom Note
 - Climbing Stairs
+- Longest Palindrome
