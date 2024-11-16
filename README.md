@@ -18,3 +18,4 @@
 - Climbing Stairs
 - Longest Palindrome
 - Reverse Linked List
+- Contains Duplicate
