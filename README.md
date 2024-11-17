@@ -19,3 +19,4 @@
 - Longest Palindrome
 - Reverse Linked List
 - Contains Duplicate
+- Add Binary
