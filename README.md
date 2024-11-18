@@ -20,3 +20,4 @@
 - Reverse Linked List
 - Contains Duplicate
 - Add Binary
+- Majority Element
