@@ -21,3 +21,4 @@
 - Contains Duplicate
 - Add Binary
 - Majority Element
+- Maximum Depth of Binary Tree
