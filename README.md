@@ -28,3 +28,4 @@
 - Lowest Common Ancestor of a Binary Search Tree
 - Flood Fill
 - Maximum Subarray
+- Diameter of Binary Tree
