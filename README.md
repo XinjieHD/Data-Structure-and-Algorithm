@@ -35,4 +35,5 @@
 - Binary Tree Level Order Traversal
 - Min Stack
 - Coin Change
+- K Closest Points to Origin
 
