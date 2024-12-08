@@ -41,5 +41,6 @@
 - Validate Binary Search Tree
 - Clone Graph
 - Number of Islands
+- Implement Trie (Prefix Tree)
   
 
