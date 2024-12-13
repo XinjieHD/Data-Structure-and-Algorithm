@@ -46,6 +46,7 @@
 - Combination Sum
 - Permutations
 - Sort Colors
+- Merge Intervals
 
   
 
