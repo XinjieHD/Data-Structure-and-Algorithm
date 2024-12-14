@@ -47,6 +47,7 @@
 - Permutations
 - Sort Colors
 - Merge Intervals
+- Course Schedule
 
   
 
