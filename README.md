@@ -54,6 +54,7 @@
 - Search in Rotated Sorted Array
 - Accounts Merge
 - Word Break
+- Spiral Matrix
 
 
 
