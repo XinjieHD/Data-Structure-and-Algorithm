@@ -55,6 +55,7 @@
 - Accounts Merge
 - Word Break
 - Spiral Matrix
+- String to Integer (atoi)
 
 
 
