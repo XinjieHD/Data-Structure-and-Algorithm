@@ -59,6 +59,7 @@
 - Construct Binary Tree from Preorder and Inorder Traversal
 - Longest Palindromic Substring
 - Subsets
+- Partition Equal Subset Sum
 
 
 
