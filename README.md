@@ -62,6 +62,7 @@
 - Partition Equal Subset Sum
 - Binary Tree Right Side View
 - Unique Paths
+- Word Search
 
 
 
