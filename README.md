@@ -64,6 +64,7 @@
 - Unique Paths
 - Word Search
 - Task Scheduler
+- Find All Anagrams in a String
 
 
 
