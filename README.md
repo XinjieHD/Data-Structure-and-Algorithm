@@ -74,6 +74,7 @@
 - Largest Rectangle in Histogram
 - Merge k Sorted Lists
 - Find Median from Data Stream
+- Trapping Rain Water
 
 
 
