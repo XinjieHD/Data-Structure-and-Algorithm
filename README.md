@@ -78,6 +78,7 @@
 - Serialize and Deserialize Binary Tree
 - Word Ladder
 - Basic Calculator
+- Maximum Profit in Job Scheduling
 
 
 
