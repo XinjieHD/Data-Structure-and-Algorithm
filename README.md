@@ -4,7 +4,7 @@
 # AlgoMonster
 - Binary Search
 
-# LeetCode
+# LeetCode Grind 75
 - Two Sum
 - Valid Parentheses
 - Merge Two Sorted Lists
@@ -80,6 +80,9 @@
 - Basic Calculator
 - Maximum Profit in Job Scheduling
 
+
+# LeetCode MySQL
+- Recyclable and Low Fat Products
 
 
 
