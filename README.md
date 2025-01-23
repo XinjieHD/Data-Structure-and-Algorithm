@@ -90,6 +90,7 @@
 - Replace Employee ID With The Unique Identifier
 - Product Sales Analysis I
 - Customer Who Visited but Did Not Make Any Transactions
+- Rising Temperature
 
 
 
