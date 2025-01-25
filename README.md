@@ -92,6 +92,7 @@
 - Customer Who Visited but Did Not Make Any Transactions
 - Rising Temperature
 - Average Time of Process per Machine
+- Employee Bonus
 
 
 
