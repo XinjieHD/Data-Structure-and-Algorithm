@@ -96,6 +96,8 @@
 - Students and Examinations
 - Managers with at Least 5 Direct Reports
 - Confirmation Rate
+- Not Boring Movies
+
 
 
 
