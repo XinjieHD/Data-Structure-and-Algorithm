@@ -97,6 +97,7 @@
 - Managers with at Least 5 Direct Reports
 - Confirmation Rate
 - Not Boring Movies
+- Average Selling Price
 
 
 
