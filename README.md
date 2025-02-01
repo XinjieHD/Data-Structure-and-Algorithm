@@ -99,6 +99,7 @@
 - Not Boring Movies
 - Average Selling Price
 - Project Employees I
+- Percentage of Users Attended a Contest
 
 
 
