@@ -100,6 +100,7 @@
 - Average Selling Price
 - Project Employees I
 - Percentage of Users Attended a Contest
+- Queries Quality and Percentage
 
 
 
