@@ -101,6 +101,7 @@
 - Project Employees I
 - Percentage of Users Attended a Contest
 - Queries Quality and Percentage
+- Monthly Transactions I
 
 
 
