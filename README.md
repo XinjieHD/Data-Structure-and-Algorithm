@@ -111,6 +111,7 @@
 - Find Followers Count
 - Biggest Single Number
 - Customers Who Bought All Products
+- The Number of Employees Which Report to Each Employee
 
 
 
