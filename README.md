@@ -114,6 +114,7 @@
 - The Number of Employees Which Report to Each Employee
 - Primary Department for Each Employee
 - Triangle Judgement
+- Consecutive Numbers
 
 
 
