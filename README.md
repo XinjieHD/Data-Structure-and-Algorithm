@@ -117,6 +117,7 @@
 - Consecutive Numbers
 - Product Price at a Given Date
 - Last Person to Fit in the Bus
+- Count Salary Categories
 
 
 
