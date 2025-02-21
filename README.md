@@ -119,6 +119,7 @@
 - Last Person to Fit in the Bus
 - Count Salary Categories
 - Employees Whose Manager Left the Company
+- Exchange Seats
 
 
 
