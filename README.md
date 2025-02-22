@@ -120,6 +120,8 @@
 - Count Salary Categories
 - Employees Whose Manager Left the Company
 - Exchange Seats
+- Movie Rating
+
 
 
 
