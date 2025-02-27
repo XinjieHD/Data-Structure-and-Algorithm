@@ -125,6 +125,7 @@
 - Friend Requests II: Who Has the Most Friends
 - Investments in 2016
 - Department Top Three Salaries
+- Fix Names in a Table
 
 
 
