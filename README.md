@@ -127,6 +127,7 @@
 - Department Top Three Salaries
 - Fix Names in a Table
 - Patients With a Condition
+- Delete Duplicate Emails
 
 
 
