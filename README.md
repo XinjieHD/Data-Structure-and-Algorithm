@@ -128,6 +128,9 @@
 - Fix Names in a Table
 - Patients With a Condition
 - Delete Duplicate Emails
+- Second Highest Salary
+- Group Sold Products By The Date
+
 
 
 
