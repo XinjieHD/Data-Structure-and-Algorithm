@@ -131,6 +131,7 @@
 - Second Highest Salary
 - Group Sold Products By The Date
 - List the Products Ordered in a Period
+- Find Users With Valid E-Mails
 
 
 
