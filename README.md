@@ -79,6 +79,7 @@
 - Word Ladder
 - Basic Calculator
 - Maximum Profit in Job Scheduling
+- Merge Sorted Array
 
 
 # LeetCode MySQL
